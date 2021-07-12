@@ -1,1 +1,1 @@
-# reddit
+# AMC Stock Analysis 
